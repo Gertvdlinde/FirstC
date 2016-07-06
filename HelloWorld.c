@@ -4,7 +4,7 @@
 
 	{
 
-		printf(“Hello Gert\n”);
+		printf(“Hello Darkness my old friend\n”);
 
 		return 0;
 
